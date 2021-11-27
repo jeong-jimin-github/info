@@ -10,6 +10,8 @@ Programming Language :Python, Javascript, HTML, CSS
 <br>
 
 [Github 프로필 페이지](https://github.com/jeong-jimin-github)
+<br>
+[블로그](https://blog.jeong-jimin.com/)
 <br><br>
 프로젝트
 <br>
