@@ -1,10 +1,11 @@
 Information
 <br>
-<pre><code>Name :Jeong Ji Min
-Age :16
-Region :South Korea
-Programming Language :Python, Javascript, HTML, CSS
-</code></pre>
+```css
+"Name" :"Jeong Ji Min"
+"Age" :16
+"Region" :"South Korea"
+"Programming Language" :"Python", "Javascript", "HTML", "CSS"
+```
 <br>
 바로가기
 <br>
