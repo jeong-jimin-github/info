@@ -2,7 +2,7 @@ Information
 <br>
 ```css
 "Name" :"Jeong Ji Min"
-"Age" :16
+"Age" :"16"
 "Region" :"South Korea"
 "Programming Language" :"Python", "Javascript", "HTML", "CSS"
 ```
