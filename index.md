@@ -3,19 +3,19 @@
 
 - 🌱 배우고 있는 것 **Python, HTML, CSS, JS**
 
-- 🔭 진행중인 프로젝트 [Amadeus-System](https://github.com/jeong-jimin-github/Amadeus-System)
+- 🔭 진행중인 프로젝트 [Amadeus-System](https://github.com/progrm-github/AMADEUS_JAVASCRIPT-2)
 
-- 🇯🇵 일본어 공부 관련 [kanji-test](https://github.com/jeong-jimin-github/kanji-test)
+- 🇯🇵 일본어 공부 관련 [kanji-test](https://github.com/progrm-github/kanji-test)
 
-- ℹ 정보 [jeong-jimin.com](http:/jeong-jimin.com)
+- ℹ 정보 [jeong-jimin.com](https:/info.jeong-jimin.com)
 
-- 👨‍💻 모든 프로젝트 [https://github.com/jeong-jimin-github](https://github.com/jeong-jimin-github)
+- 👨‍💻 모든 프로젝트 [https://github.com/progrm-github](https://github.com/progrm-github)
 
 - 📝 블로그 [https://blog.jeong-jimin.com](https://blog.jeong-jimin.com)
 
 - 💬 Discord **jm-discord#6566**
 
-- 📫 이메일 **jeongjimin0730@gmail.com**
+- 📫 이메일 **jmjeong10@gmail.com**
 
 <p align="left">
 </p>
