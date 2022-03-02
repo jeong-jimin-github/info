@@ -1,4 +1,4 @@
-<h1 align="center">안녕하세요 저는 정지민이라고 합니다.</h1>
+<h1 align="center">안녕하세요 저는 空白(공백)이라고 합니다.</h1>
 <h3 align="center">현재 프로그래밍을 공부하고있는 고1 학생입니다.</h3>
 
 - 🌱 배우고 있는 것 **Python, HTML, CSS, JS**
@@ -13,7 +13,7 @@
 
 - 📝 블로그 [https://blog.jeong-jimin.com](https://blog.jeong-jimin.com)
 
-- 💬 Discord **jm-discord#6566**
+- 💬 Discord **kūhaku#0086**
 
 - 📫 이메일 **jmjeong10@gmail.com**
 
