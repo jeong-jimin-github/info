@@ -7,7 +7,7 @@
 
 - 🇯🇵 일본어 공부 관련 [kanji-test](https://github.com/progrm-github/kanji-test)
 
-- ℹ 정보 [jeong-jimin.com](https:/info.jeong-jimin.com)
+- ℹ 정보 [info.jeong-jimin.com](https:/info.jeong-jimin.com)
 
 - 👨‍💻 모든 프로젝트 [https://github.com/progrm-github](https://github.com/progrm-github)
 
