@@ -9,7 +9,7 @@
 
 - ℹ 정보 [info.jeong-jimin.com](https:/info.jeong-jimin.com)
 
-- 👨‍💻 모든 프로젝트 [https://github.com/progrm-github](https://github.com/progrm-github)
+- 👨‍💻 모든 프로젝트 [https://github.com/jeong-jimin-github](https://github.com/jeong-jimin-github)
 
 - 📝 블로그 [https://blog.jeong-jimin.com](https://blog.jeong-jimin.com)
 
