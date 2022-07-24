@@ -13,7 +13,7 @@
 
 - 📝 블로그 [https://blog.jeong-jimin.com](https://blog.jeong-jimin.com)
 
-- 💬 Discord **kūhaku#0086**
+- 💬 Discord **空白#0086**
 
 - 📫 이메일 **jmjeong10@gmail.com**
 
